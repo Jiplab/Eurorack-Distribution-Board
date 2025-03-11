@@ -3,7 +3,7 @@ Eurorack Distribution Board.
 Originally planned for the “Bauer Sigma-6 Voice Module”
 https://www.mjbauer.biz/Sigma6_M0_synth_weblog.htm
 
-this PCB extends its capabilities to modules that require a +5v power supply.
+this PCB extends its capabilities to modules without 16pin socket that require a +5v power supply.
 
 For all versions:
 External power supply in +5v via mini USB is possible.

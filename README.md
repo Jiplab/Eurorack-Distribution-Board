@@ -1,6 +1,6 @@
 
 
-#  Eurorack Distribution Board.\
+#  Eurorack Distribution Board.
 \
 Originally planned for the \'93Bauer Sigma-6 Voice Module\'94\
 https://www.mjbauer.biz/Sigma6_M0_synth_weblog.htm\

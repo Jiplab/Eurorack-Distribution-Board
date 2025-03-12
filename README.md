@@ -15,3 +15,6 @@ Versions 2.0 and 2.1 include a MIDI Bus extension.
 
 Versions 1.0 and 2.0 have a minimum format (49.5mmx 84mm).
 Version 2.1 is 3U (49.5mmx106.5mm);
+
+
+![Eurorack Distribution Board](https://github.com/user-attachments/assets/1add092d-2608-40d5-8147-3e125da55967)
